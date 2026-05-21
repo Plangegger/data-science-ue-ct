@@ -2,8 +2,4 @@ jupyter
 pandas
 scikit-learn
 scipy
-matplotlib
-
-plotly
-bokeh
-seaborn
+mathplotlib
