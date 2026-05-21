@@ -2,4 +2,7 @@ jupyter
 pandas
 scikit-learn
 scipy
-mathplotlib
+matplotlib
+
+seaborn
+pathlib
