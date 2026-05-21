@@ -2,4 +2,8 @@ jupyter
 pandas
 scikit-learn
 scipy
-mathplotlib
+matplotlib
+
+plotly
+bokeh
+seaborn
